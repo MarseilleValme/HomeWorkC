@@ -1,15 +1,11 @@
 ﻿Console.Clear();
 Console.Write("Введите 1-ое число: ");
-int a = Convert.ToInt32(Console.ReadLine());
+    int a = Convert.ToInt32(Console.ReadLine());
 Console.Write("Введите 2-ое число: ");
-int b = Convert.ToInt32(Console.ReadLine());
-// Интерполяция строк
-// Console.WriteLine($"Результат {a} + {b} = {a + b}");
-// Console.WriteLine("Результат " + a + " + " + b + " = " + (a + b));
-// Console.WriteLine(a > b);
+    int b = Convert.ToInt32(Console.ReadLine());
 if (a > b)
-    Console.WriteLine(a);
-else if (a < b)
-    Console.WriteLine(b);
-else
-    Console.WriteLine("=");
+    Console.WriteLine($"Большее {a}, Меньшее {b}");
+    else if (a < b)
+         Console.WriteLine($"Большее {b}, Меньшее {a}");
+         else
+             Console.WriteLine("Числа равны");
