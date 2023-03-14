@@ -1,0 +1,15 @@
+D:\GeekBrains\Знакомство с языками программирования\HomeWorkC\HomeWorkC\Additional task (Len_b)\bin\Debug\net6.0\Additional task (Len_b).exe
+D:\GeekBrains\Знакомство с языками программирования\HomeWorkC\HomeWorkC\Additional task (Len_b)\bin\Debug\net6.0\Additional task (Len_b).deps.json
+D:\GeekBrains\Знакомство с языками программирования\HomeWorkC\HomeWorkC\Additional task (Len_b)\bin\Debug\net6.0\Additional task (Len_b).runtimeconfig.json
+D:\GeekBrains\Знакомство с языками программирования\HomeWorkC\HomeWorkC\Additional task (Len_b)\bin\Debug\net6.0\Additional task (Len_b).dll
+D:\GeekBrains\Знакомство с языками программирования\HomeWorkC\HomeWorkC\Additional task (Len_b)\bin\Debug\net6.0\Additional task (Len_b).pdb
+D:\GeekBrains\Знакомство с языками программирования\HomeWorkC\HomeWorkC\Additional task (Len_b)\obj\Debug\net6.0\Additional task (Len_b).csproj.AssemblyReference.cache
+D:\GeekBrains\Знакомство с языками программирования\HomeWorkC\HomeWorkC\Additional task (Len_b)\obj\Debug\net6.0\Additional task (Len_b).GeneratedMSBuildEditorConfig.editorconfig
+D:\GeekBrains\Знакомство с языками программирования\HomeWorkC\HomeWorkC\Additional task (Len_b)\obj\Debug\net6.0\Additional task (Len_b).AssemblyInfoInputs.cache
+D:\GeekBrains\Знакомство с языками программирования\HomeWorkC\HomeWorkC\Additional task (Len_b)\obj\Debug\net6.0\Additional task (Len_b).AssemblyInfo.cs
+D:\GeekBrains\Знакомство с языками программирования\HomeWorkC\HomeWorkC\Additional task (Len_b)\obj\Debug\net6.0\Additional task (Len_b).csproj.CoreCompileInputs.cache
+D:\GeekBrains\Знакомство с языками программирования\HomeWorkC\HomeWorkC\Additional task (Len_b)\obj\Debug\net6.0\Additional task (Len_b).dll
+D:\GeekBrains\Знакомство с языками программирования\HomeWorkC\HomeWorkC\Additional task (Len_b)\obj\Debug\net6.0\refint\Additional task (Len_b).dll
+D:\GeekBrains\Знакомство с языками программирования\HomeWorkC\HomeWorkC\Additional task (Len_b)\obj\Debug\net6.0\Additional task (Len_b).pdb
+D:\GeekBrains\Знакомство с языками программирования\HomeWorkC\HomeWorkC\Additional task (Len_b)\obj\Debug\net6.0\Additional task (Len_b).genruntimeconfig.cache
+D:\GeekBrains\Знакомство с языками программирования\HomeWorkC\HomeWorkC\Additional task (Len_b)\obj\Debug\net6.0\ref\Additional task (Len_b).dll
