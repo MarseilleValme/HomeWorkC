@@ -1,0 +1,30 @@
+D:\GeekBrains\Знакомство с языками программирования\HomeWorkC\HomeWorkC\Additional Task\bin\Debug\net6.0\Additional Task.exe
+D:\GeekBrains\Знакомство с языками программирования\HomeWorkC\HomeWorkC\Additional Task\bin\Debug\net6.0\Additional Task.deps.json
+D:\GeekBrains\Знакомство с языками программирования\HomeWorkC\HomeWorkC\Additional Task\bin\Debug\net6.0\Additional Task.runtimeconfig.json
+D:\GeekBrains\Знакомство с языками программирования\HomeWorkC\HomeWorkC\Additional Task\bin\Debug\net6.0\Additional Task.dll
+D:\GeekBrains\Знакомство с языками программирования\HomeWorkC\HomeWorkC\Additional Task\bin\Debug\net6.0\Additional Task.pdb
+D:\GeekBrains\Знакомство с языками программирования\HomeWorkC\HomeWorkC\Additional Task\obj\Debug\net6.0\Additional Task.csproj.AssemblyReference.cache
+D:\GeekBrains\Знакомство с языками программирования\HomeWorkC\HomeWorkC\Additional Task\obj\Debug\net6.0\Additional Task.GeneratedMSBuildEditorConfig.editorconfig
+D:\GeekBrains\Знакомство с языками программирования\HomeWorkC\HomeWorkC\Additional Task\obj\Debug\net6.0\Additional Task.AssemblyInfoInputs.cache
+D:\GeekBrains\Знакомство с языками программирования\HomeWorkC\HomeWorkC\Additional Task\obj\Debug\net6.0\Additional Task.AssemblyInfo.cs
+D:\GeekBrains\Знакомство с языками программирования\HomeWorkC\HomeWorkC\Additional Task\obj\Debug\net6.0\Additional Task.csproj.CoreCompileInputs.cache
+D:\GeekBrains\Знакомство с языками программирования\HomeWorkC\HomeWorkC\Additional Task\obj\Debug\net6.0\Additional Task.dll
+D:\GeekBrains\Знакомство с языками программирования\HomeWorkC\HomeWorkC\Additional Task\obj\Debug\net6.0\refint\Additional Task.dll
+D:\GeekBrains\Знакомство с языками программирования\HomeWorkC\HomeWorkC\Additional Task\obj\Debug\net6.0\Additional Task.pdb
+D:\GeekBrains\Знакомство с языками программирования\HomeWorkC\HomeWorkC\Additional Task\obj\Debug\net6.0\Additional Task.genruntimeconfig.cache
+D:\GeekBrains\Знакомство с языками программирования\HomeWorkC\HomeWorkC\Additional Task\obj\Debug\net6.0\ref\Additional Task.dll
+D:\GeekBrains\Знакомство с языками программирования\HomeWorkC\HomeWorkC\Additional Task (if)\bin\Debug\net6.0\Additional Task.exe
+D:\GeekBrains\Знакомство с языками программирования\HomeWorkC\HomeWorkC\Additional Task (if)\bin\Debug\net6.0\Additional Task.deps.json
+D:\GeekBrains\Знакомство с языками программирования\HomeWorkC\HomeWorkC\Additional Task (if)\bin\Debug\net6.0\Additional Task.runtimeconfig.json
+D:\GeekBrains\Знакомство с языками программирования\HomeWorkC\HomeWorkC\Additional Task (if)\bin\Debug\net6.0\Additional Task.dll
+D:\GeekBrains\Знакомство с языками программирования\HomeWorkC\HomeWorkC\Additional Task (if)\bin\Debug\net6.0\Additional Task.pdb
+D:\GeekBrains\Знакомство с языками программирования\HomeWorkC\HomeWorkC\Additional Task (if)\obj\Debug\net6.0\Additional Task.csproj.AssemblyReference.cache
+D:\GeekBrains\Знакомство с языками программирования\HomeWorkC\HomeWorkC\Additional Task (if)\obj\Debug\net6.0\Additional Task.GeneratedMSBuildEditorConfig.editorconfig
+D:\GeekBrains\Знакомство с языками программирования\HomeWorkC\HomeWorkC\Additional Task (if)\obj\Debug\net6.0\Additional Task.AssemblyInfoInputs.cache
+D:\GeekBrains\Знакомство с языками программирования\HomeWorkC\HomeWorkC\Additional Task (if)\obj\Debug\net6.0\Additional Task.AssemblyInfo.cs
+D:\GeekBrains\Знакомство с языками программирования\HomeWorkC\HomeWorkC\Additional Task (if)\obj\Debug\net6.0\Additional Task.csproj.CoreCompileInputs.cache
+D:\GeekBrains\Знакомство с языками программирования\HomeWorkC\HomeWorkC\Additional Task (if)\obj\Debug\net6.0\Additional Task.dll
+D:\GeekBrains\Знакомство с языками программирования\HomeWorkC\HomeWorkC\Additional Task (if)\obj\Debug\net6.0\refint\Additional Task.dll
+D:\GeekBrains\Знакомство с языками программирования\HomeWorkC\HomeWorkC\Additional Task (if)\obj\Debug\net6.0\Additional Task.pdb
+D:\GeekBrains\Знакомство с языками программирования\HomeWorkC\HomeWorkC\Additional Task (if)\obj\Debug\net6.0\Additional Task.genruntimeconfig.cache
+D:\GeekBrains\Знакомство с языками программирования\HomeWorkC\HomeWorkC\Additional Task (if)\obj\Debug\net6.0\ref\Additional Task.dll
