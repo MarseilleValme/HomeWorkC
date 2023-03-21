@@ -8,12 +8,7 @@ int SearchQuantityEven(int[] array)
 {
     int result=0;
     for (int i = 0; i < array.Length; i++)
-    {
-        if (array[i]%2==0)
-        {
-            result++;
-        }
-    }
+        if (array[i]%2==0) result++;
     return result;
 }
 // Задайте массив заполненный случайными положительными трёхзначными числами. 
