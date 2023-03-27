@@ -30,3 +30,4 @@ Console.WriteLine(" ]");
 
 if (count_4>=n-count_4) Console.Write("YES");
 else Console.Write("NO");
+Console.WriteLine(a);

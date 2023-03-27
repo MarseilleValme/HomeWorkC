@@ -8,4 +8,4 @@ for (int i = 0; i < l; i++)
 if (sum == 0)
     Console.WriteLine("Число является палиндромом");    
 else 
-    Console.WriteLine("Число палиндромом не является");   
+    Console.WriteLine("Число палиндромом не является");  
