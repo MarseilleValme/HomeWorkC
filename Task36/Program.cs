@@ -1,4 +1,5 @@
-﻿void InputArray(int[] array)
+﻿//Task36
+void InputArray(int[] array)
 {
     for (int i = 0; i < array.Length; i++)
         array[i] = new Random().Next(1, 1000);
@@ -8,9 +9,7 @@ int SumOdd_i(int[] array)
 {
     int sum=0;
     for (int i = 1; i < array.Length; i+=2)
-    {
-        sum=sum+array[i];
-    }
+            sum=sum+array[i];
     return sum;
 }
 // Задайте одномерный массив, заполненный случайными числами. 

@@ -34,7 +34,6 @@ int WrongPixel(string[,] photo, string[,] negativ)
 }
 Console.Clear();
 int m = 4, n = 5;
-// int[,] matrix = new int[n, m];
 string[,] negativ = new string[n, m];
 string[,] photo = new string[n, m];
 InputMatrix(photo);
