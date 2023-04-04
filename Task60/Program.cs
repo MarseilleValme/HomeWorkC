@@ -1,15 +1,15 @@
-﻿void InputMatrix(int[,,] matrix)            //Сам бился над "неповторением" пол дня — ниасилил. 
-{                                           //Нагуглил для двумерного, адаптировал под трехмерный и сократил.                                         
-    bool[] used = new bool[100];
-    for (int i = 0; i < matrix.GetLength(0); ++i)
-        for (int j = 0; j < matrix.GetLength(1); ++j)
-            for (int l = 0; l < matrix.GetLength(2); l++)
+﻿void InputMatrix(int[,,] matrix)
+{
+    int[] generated = new int[100]; //Создаём массив "флажков" под каждое двузначное число.
+    generated[0] = 1;  //Переключаем нулевой флажок как точку входа в WHILE на 9-й строке
+    for (int x = 0; x < matrix.GetLength(0); ++x)
+        for (int y = 0; y < matrix.GetLength(1); ++y)
+            for (int z = 0; z < matrix.GetLength(2); z++)
             {
-                matrix[i, j, l] = new Random().Next(used.Length);
-                while (used[matrix[i, j, l]])
-                    matrix[i, j, l] = new Random().Next(used.Length);
-                used[matrix[i, j, l]] = true;
-            }
+                while (generated[matrix[x, y, z]] == 1)                          //Пока не попадётся ещё не переключенный флажок
+                    matrix[x, y, z] = new Random().Next(10, generated.Length);   // — генерим новые числа.
+                generated[matrix[x, y, z]] = 1;                                  //Помечаем ячейку с номером уже сгенерённого числа,
+            }                                                                    //переключая её флажок.
 }
 // Задача 60. Сформируйте трёхмерный массив из неповторяющихся двузначных чисел. 
 // Напишите программу, которая будет построчно выводить массив, добавляя индексы 
@@ -24,14 +24,14 @@ void PrintMatrix(int[,,] matrix)
     for (int x = 0; x < matrix.GetLength(0); x++)
         for (int y = 0; y < matrix.GetLength(1); y++)
         {
-            for (int z = 0; z < matrix.GetLength(1); z++)
-                Console.Write($"{matrix[x, z, y]}({x},{z},{y})\t");
+            for (int z = 0; z < matrix.GetLength(2); z++)
+                Console.Write($"{matrix[x, y, z]}({x},{y},{z})\t");
             Console.WriteLine();
         }
 }
 
 int x = 3, y = 3, z = 3;
-int[,,] m = new int[x, y, z];
-InputMatrix(m);
+int[,,] matrix = new int[x, y, z];
+InputMatrix(matrix);
 Console.WriteLine("Получена матрица:");
-PrintMatrix(m);
+PrintMatrix(matrix);
